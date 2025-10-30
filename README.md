@@ -34,16 +34,8 @@ This repository implements an ML model — from **training** to **prediction ser
 ---
 
 ## 📁 Repository Structure
-ml-project-2/
-│
-├── artifacts/ # Saved models, transformers, logs, etc.
-├── datasets/ # Raw / input datasets
-├── notebook/ # Experimentation and EDA notebooks
-├── main.py # Pipeline orchestration (train, test)
-├── prediction_helper.py # Wraps inference logic for new data
-├── requirements.txt # Dependency list
-├── .gitignore # Files or directories to ignore
-└── README.md # ← You’ll put this file here
+
+<img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/626c07a2-d449-4597-80a2-3b034fc3bd16" />
 
 
 
