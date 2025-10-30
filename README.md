@@ -100,5 +100,3 @@ GitHub: https://github.com/mohdbilal05
 LinkedIn: (https://www.linkedin.com/in/bilal-mohd/)
 Email: mohdbilal3109@gmail.com
 
-## 📁 Repository Structure
-
